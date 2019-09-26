@@ -11,8 +11,7 @@ def toadstool
   puts $status
 end
 
-
 def link
-  phrase =  "It's Dangerous To Go Alone! Take this.\n"
-  puts phrase
+  any_phrase =  "It's Dangerous To Go Alone! Take this.\n"
+  puts any_phrase
 end
